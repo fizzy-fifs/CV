@@ -1,6 +1,6 @@
 FIFOLU AKINYEMI
 
-I am a software developer with a passio. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a software developer with a passion for solving problems. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -14,15 +14,15 @@ I am a software developer with a passio. Then a sentence about what you've achie
 Accrington Stanley (September 2019 to April 2020)  
 Academy Analyst
 
-- Any experience relevent to software development
 
 Academy Analyst (September 2018 to May 2019)  
 Newport County AFC
 
+
 Performance Analyst (June 2018 to July 2018)  
 Football Association of Wales
 
-- Any experience relevent to software development
+
 
 ## Skills
 
@@ -65,4 +65,4 @@ BSc. Football Coaching, Development and Administration
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-Football
+Team sports
