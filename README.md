@@ -1,6 +1,6 @@
-## Your Name
+FIFOLU AKINYEMI
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a software developer with a passio. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -11,13 +11,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Accrington Stanley (September 2019 to April 2020)  
+Academy Analyst
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Academy Analyst (September 2018 to May 2019)  
+Newport County AFC
+
+Performance Analyst (June 2018 to July 2018)  
+Football Association of Wales
 
 - Any experience relevent to software development
 
@@ -42,7 +45,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+Makers Academy (March 2021 to June 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -51,16 +54,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+University Campus of Football Business (September 2019 to October 2020)
+MSc. Football Coaching and Analysis
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+University of South Wales (September 2016 to June 2019)
+BSc. Football Coaching, Development and Administration
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+Football
